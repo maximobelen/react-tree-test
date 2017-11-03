@@ -1,0 +1,7 @@
+/* Base Application Styles */
+body {
+    background: #eee;
+    .node {
+        padding-left: 10px;
+    }
+}
